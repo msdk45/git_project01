@@ -1,4 +1,4 @@
-package git_package;
+package gitPackage;
 
 public class GitDay2 {
 
